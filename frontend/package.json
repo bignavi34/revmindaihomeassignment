@@ -4,3 +4,8 @@
     "recharts": "^3.8.1"
   }
 }
+"scripts": {
+  "dev": "vite",          // Or "next dev", "react-scripts start", etc.
+  "build": "vite build",
+  "preview": "vite preview"
+}
